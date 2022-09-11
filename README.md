@@ -1,6 +1,7 @@
 # rtp_reader 
 
 This source is forked from isostatic https://github.com/isostatic/rtp_reader
+please read original source from isostatic
 
 # dumpts.py
 
