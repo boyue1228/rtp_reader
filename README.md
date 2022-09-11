@@ -1,7 +1,7 @@
 # rtp_reader 
 
 This source is forked from isostatic https://github.com/isostatic/rtp_reader
-please read original source from isostatic
+please read original source from isostatic, more deep dive on his website https://newweaver.com/a-deep-dive-into-rtp/ , really worth to read it as broadcast engineer.
 
 # dumpts.py
 
